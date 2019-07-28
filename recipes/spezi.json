@@ -1,0 +1,17 @@
+{
+  "name": "Spezi",
+  "icon": "drink3.png",
+
+  "ingredients" : [
+
+    {
+      "name" : "Cola",
+      "amount" : 100.0
+    },
+
+    {
+      "name" : "Fanta",
+      "amount" : 100.0
+    }
+  ]
+}

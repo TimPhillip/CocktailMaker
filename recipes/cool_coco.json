@@ -1,0 +1,23 @@
+{
+  "name": "Cool Coconut",
+  "icon": "Cocktail_yellow.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Bols Creme de Bananes",
+      "amount" : 10.0
+    },
+
+    {
+      "name" : "Orangensaft",
+      "amount" : 50.0
+    },
+
+    {
+      "name" : "Bols Coconut Creole",
+      "amount" : 20.0
+    }
+  ]
+}
+

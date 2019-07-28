@@ -1,0 +1,17 @@
+{
+  "name": "Apfelsaft Schorle",
+  "icon": "Cocktail_yellow.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Soda",
+      "amount" : 150.0
+    },
+
+    {
+      "name" : "Apple Juice",
+      "amount" : 50.0
+    }
+  ]
+}

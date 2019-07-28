@@ -1,0 +1,23 @@
+{
+  "name": "Bird of Paradise",
+  "icon": "Cocktail_red.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Bols Maracuja Sun",
+      "amount" : 10.0
+    },
+
+    {
+      "name" : "Orangensaft",
+      "amount" : 35.0
+    },
+ 
+    {
+      "name" : "Ananassaft",
+      "amount" : 35.0
+    }
+  ]
+}
+

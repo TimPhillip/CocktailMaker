@@ -1,0 +1,46 @@
+{
+  "name": "Clean Machine 2",
+  "icon": "clean.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Water 1",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Water 2",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Water 3",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Water 4",
+      "amount" : 20.0
+    },
+    {
+      "name" : "Water 5",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Water 6",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Water 7",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Water 8",
+      "amount" : 20.0
+    }
+  ]
+}

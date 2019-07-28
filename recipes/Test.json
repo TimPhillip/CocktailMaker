@@ -1,0 +1,12 @@
+{
+  "name": "Test Pump 1",
+  "icon": "Cocktail_red.jpg",
+  "ingredients" : [
+
+    {
+      "name" : "Water 1",
+      "amount" : 50.0
+    }
+  ]
+}
+

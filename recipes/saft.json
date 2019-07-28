@@ -1,0 +1,26 @@
+{
+  "name": "Unser Cocktail",
+  "icon": "Cocktail_red.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Bananensaft",
+      "amount" : 35.0
+    },
+    {
+      "name" : "Maracujasaft",
+      "amount" : 35.0
+    },
+
+    {
+      "name" : "Limettensaft",
+      "amount" : 5.0
+    },
+
+    {
+      "name" : "Grenadine",
+      "amount" : 10.0
+    }
+  ]
+}

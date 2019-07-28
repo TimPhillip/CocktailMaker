@@ -1,0 +1,22 @@
+{
+  "name": "Spain",
+  "icon": "Cocktail_red.jpg",
+  "ingredients" : [
+
+    {
+      "name" : "Maracujasaft",
+      "amount" : 50.0
+    },
+
+    {
+      "name" : "Licor 43",
+      "amount" : 15.0
+    },
+
+    {
+      "name" : "Grenadine",
+      "amount" : 10.0
+    }
+  ]
+}
+

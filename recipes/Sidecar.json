@@ -1,0 +1,23 @@
+{
+  "name": "Sidecar",
+  "icon": "Cocktail_yellow.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Limettensaft",
+      "amount" : 30.0
+    },
+
+    {
+      "name" : "Triple Sec",
+      "amount" : 30.0
+    },
+
+    {
+      "name" : "Orangensaft",
+      "amount" : 20.0
+    }
+  ]
+}
+

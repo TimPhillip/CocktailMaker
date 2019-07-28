@@ -1,0 +1,27 @@
+{
+  "name": "Zombie",
+
+  "ingredients" : [
+
+    {
+      "name" : "Grenadine",
+      "amount" : 10.0
+    },
+
+    {
+      "name" : "Triple Sec",
+      "amount" : 10.0
+    },
+
+    {
+      "name" : "Limettensaft",
+      "amount" : 10.0
+    },
+
+    {
+      "name" : "Orangensaft",
+      "amount" : 50.0
+    }
+  ]
+}
+

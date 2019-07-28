@@ -1,0 +1,23 @@
+{
+  "name": "Caribian Blue",
+  "icon": "Cocktail_blue.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Bols Blue Curacao",
+      "amount" : 10.0
+    },
+
+    {
+      "name" : "Tonic Water",
+      "amount" : 35.0
+    },
+
+    {
+      "name" : "Ananassaft",
+      "amount" : 35.0
+    }
+  ]
+}
+

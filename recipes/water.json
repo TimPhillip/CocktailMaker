@@ -1,0 +1,13 @@
+{
+  "name": "Water",
+  "icon": "clean.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Water",
+      "amount" : 80.0
+    }
+  ]
+}
+

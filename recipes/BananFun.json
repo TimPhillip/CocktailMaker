@@ -1,0 +1,23 @@
+{
+  "name": "Banana Fun",
+  "icon": "Cocktail_green.jpg",
+
+  "ingredients" : [
+
+    {
+      "name" : "Bols Green Banana",
+      "amount" : 20.0
+    },
+
+    {
+      "name" : "Bananensaft",
+      "amount" : 15.0
+    },
+
+    {
+      "name" : "Zitronenlimonade",
+      "amount" : 50.0
+    }
+  ]
+}
+
